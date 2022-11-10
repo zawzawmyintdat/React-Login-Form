@@ -1,0 +1,25 @@
+.login{
+    margin: 40px auto;
+    padding: 20px 20px;
+    width: 350px;
+    background-color: aliceblue;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+input{
+    width: 90%;
+    height: 20px;
+    margin: 5px;
+    border: none;
+    border-radius: 5px;
+    border-bottom: 1px solid gainsboro;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+button{
+    margin: 10px;
+    padding: 5px;
+    background-color: rgb(72, 96, 228);
+    border-radius: 7px;
+    border: none;
+    color: whitesmoke;
+}
